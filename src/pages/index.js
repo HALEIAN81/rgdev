@@ -27,7 +27,7 @@ const index = ({ pages }) => {
             <div className="container mx-auto">
               <div className="herosection-content py-20 text-center">
                 <h1 className="text-primary">
-                  Bieber - React Personal Portfolio Template
+                  Roland Green.dev - Welcome to Hell!
                 </h1>
                 <p className="lead">
                   Bieber is a creative personal portfolio React template build
