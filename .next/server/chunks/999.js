@@ -32,7 +32,7 @@ const Comments = ({ title , slug  })=>{
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(disqus_react__WEBPACK_IMPORTED_MODULE_2__.DiscussionEmbed, {
         shortname: "your discuss shortname",
         config: {
-            url: "http://localhost:3000",
+            url: process.env.NEXT_PUBLIC_SITE_URL,
             identifier: slug,
             title: title
         }
@@ -223,7 +223,7 @@ var external_axios_default = /*#__PURE__*/__webpack_require__.n(external_axios_)
 ;// CONCATENATED MODULE: ./src/fetchers/http.js
 
 const http = external_axios_default().create({
-    baseURL: "http://localhost:3000/api",
+    baseURL: process.env.NEXT_PUBLIC_API_URL,
     headers: {
         Accept: "application/json",
         "Access-Control-Allow-Origin": "*",

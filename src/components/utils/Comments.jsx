@@ -20,7 +20,7 @@ const Comments = ({ title, slug }) => {
     <DiscussionEmbed
       shortname={"your discuss shortname"}
       config={{
-        url: "http://localhost:3000",
+        url: process.env.NEXT_PUBLIC_SITE_URL,
         identifier: slug,
         title: title,
       }}
