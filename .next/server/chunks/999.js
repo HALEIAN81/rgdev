@@ -30,9 +30,9 @@ const Comments = ({ title , slug  })=>{
         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_Spinner__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {})
     });
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(disqus_react__WEBPACK_IMPORTED_MODULE_2__.DiscussionEmbed, {
-        shortname: process.env.NEXT_PUBLIC_DISCUSS_SHORTNAME,
+        shortname: "your discuss shortname",
         config: {
-            url: process.env.NEXT_PUBLIC_SITE_URL,
+            url: "http://localhost:3000",
             identifier: slug,
             title: title
         }

@@ -3,15 +3,15 @@
   "/_document": "pages/_document.js",
   "/404": "pages/404.html",
   "/contact": "pages/contact.html",
-  "/about": "pages/about.html",
   "/homepage1": "pages/homepage1.html",
+  "/about": "pages/about.html",
   "/resume": "pages/resume.html",
   "/works": "pages/works.html",
-  "/_error": "pages/_error.js",
-  "/homepage2": "pages/homepage2.js",
-  "/category/[slug]/[page]": "pages/category/[slug]/[page].js",
-  "/postdetails/[slug]": "pages/postdetails/[slug].js",
-  "/homepage3": "pages/homepage3.js",
   "/": "pages/index.js",
-  "/posts/[slug]": "pages/posts/[slug].js"
+  "/postdetails/[slug]": "pages/postdetails/[slug].js",
+  "/_error": "pages/_error.js",
+  "/posts/[slug]": "pages/posts/[slug].js",
+  "/homepage3": "pages/homepage3.js",
+  "/category/[slug]/[page]": "pages/category/[slug]/[page].js",
+  "/homepage2": "pages/homepage2.js"
 }

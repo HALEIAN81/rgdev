@@ -18,9 +18,9 @@ const Comments = ({ title, slug }) => {
 
   return (
     <DiscussionEmbed
-      shortname={process.env.NEXT_PUBLIC_DISCUSS_SHORTNAME}
+      shortname={"your discuss shortname"}
       config={{
-        url: process.env.NEXT_PUBLIC_SITE_URL,
+        url: "http://localhost:3000",
         identifier: slug,
         title: title,
       }}
