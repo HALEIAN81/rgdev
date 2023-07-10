@@ -223,7 +223,7 @@ var external_axios_default = /*#__PURE__*/__webpack_require__.n(external_axios_)
 ;// CONCATENATED MODULE: ./src/fetchers/http.js
 
 const http = external_axios_default().create({
-    baseURL: process.env.NEXT_PUBLIC_API_URL,
+    baseURL: "http://localhost:3000/api",
     headers: {
         Accept: "application/json",
         "Access-Control-Allow-Origin": "*",
