@@ -2,19 +2,19 @@
     {
         "id": 1,
         "title": "Ui/Ux Design",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "I prefer design that is bold in color, vibrant and offers a great user experience that inspires users as well as promotes retention. I have worked in Ui/Ux for 4+ years and have received many accolades for my work.",
         "icon": "/icons/quill-pen-line.svg"
     },
     {
         "id": 2,
         "title": "Web Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "From everything from WordPress, to React, Vue, Three.js, Wix and Shopify - I've built it all and love the challenge of a new design as well as adding interactive elements that engage the user.",
         "icon": "/icons/code-s-slash-line.svg"
     },
     {
         "id": 3,
         "title": "Mobile App Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "Mobile apps are fun, versatile and I love combining them with web applications for additional features and a better user experience across generations.",
         "icon": "/icons/smartphone-line.svg"
     }
 ]
