@@ -9,9 +9,9 @@
     "nationality": "American",
     "languages": [
         "English",
-        "French"
+        "Spanish"
     ],
-    "address": "121 King Street, Melbourne, United States",
+    "address": "Seattle, Washington - The EverGreen State",
     "freelance": "It's complicated",
     "socialAddress": {
         "facebook": "https://facebook.com",
@@ -21,8 +21,8 @@
         "dribbble": "https://dribbble.com"
     },
     "phoneNumbers": [
-        "+012-3456-7891",
-        "+012-3456-7892"
+        "678-386-6201",
+        ""
     ],
     "emailAddress": [
         "rolandhgreen@gmail.com",
