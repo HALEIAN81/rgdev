@@ -14,7 +14,7 @@ const Logo = ({ url = "/", text = false }) => {
             <img
               className="h-8 max-h-full w-auto"
               src="/images/logo.png"
-              alt="Bieber"
+              alt="RolandGreen.Dev"
             />
           </>
         )}
