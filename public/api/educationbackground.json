@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "title": "Higher School Graduation",
-        "meta": "Abc College.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2008 - 2010"
+        "title": "U.S. Officer",
+        "meta": "U.S. Army",
+        "text": "Worked in administration and served in a medical capacity, also served in information technology and logistics.",
+        "year": "2008 - 2017"
     },
     {
         "id": 2,
-        "title": "Bachelor of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2010 - 2014"
+        "title": "Bachelor of Science",
+        "meta": "Emory University.",
+        "text": "Educated regarding biological and life sciences, microbiology and virology.",
+        "year": "2004 - 2008"
     },
     {
         "id": 3,
-        "title": "Masters of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2014 - 2016"
+        "title": "Masters of Science",
+        "meta": "Grand Canyon University",
+        "text": "Completed MS in Computer Science with minor in data science and artificial intelligence.",
+        "year": "2019-2022"
     }
 ]
