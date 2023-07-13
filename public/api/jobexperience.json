@@ -2,22 +2,22 @@
     {
         "id": 1,
         "title": "UI/UX Designer",
-        "meta": "Abc Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2015 - 2017"
+        "meta": "Healthcare Integrations",
+        "text": "Worked as a UX/UI designer and front end developer for a large web application, completed designs in FIGMA and worked on development of the end product as lead front end developer for Vue/Laravel based project.",
+        "year": "2021 - 2023"
     },
     {
         "id": 2,
         "title": "Front-end Developer",
-        "meta": "Def Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2017 - 2019"
+        "meta": "Onco Dev",
+        "text": "Developing web based application from a windows based application via Vue.js and Typescript.",
+        "year": "2023 - Current"
     },
     {
         "id": 3,
-        "title": "Back-end Developer",
-        "meta": "Ghi Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2019 - Present"
+        "title": "Full Stack Developer",
+        "meta": "High Power Data Solutions/Freelancer",
+        "text": "Worked for agency building React, WordPress including custom themes and plugins, also worked as a freelancer for Three.js projects.",
+        "year": "2018 - 2021"
     }
 ]
