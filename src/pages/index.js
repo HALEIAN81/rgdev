@@ -99,7 +99,7 @@ const Homepage2 = ({ posts }) => {
       {/* End Portfolios Section */}
 
       {/* Start Reviews Section */}
-      <Section
+      {/* <Section
         name="section-reviews"
         className="reviews-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -107,11 +107,11 @@ const Homepage2 = ({ posts }) => {
           <SectionHeading animated={false} title="Client Reviews" watermark="Reviews" />
           <ReviewsSection />
         </div>
-      </Section>
+      </Section> */}
       {/* End Reviews Section */}
 
       {/* Start Blog Section */}
-      <Section
+      {/* <Section
         name="section-blog"
         className="news-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -120,7 +120,7 @@ const Homepage2 = ({ posts }) => {
           <BlogSection posts={posts} />
         </div>
       </Section>
-      {/* End Blog Section */}
+      End Blog Section */}
 
       {/* Start Contact Section */}
       <Section
