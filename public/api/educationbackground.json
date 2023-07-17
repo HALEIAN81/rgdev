@@ -1,17 +1,18 @@
 [
     {
         "id": 1,
-        "title": "U.S. Officer",
-        "meta": "U.S. Army",
-        "text": "Worked in administration and served in a medical capacity, also served in information technology and logistics.",
-        "year": "2008 - 2017"
-    },
-    {
-        "id": 2,
         "title": "Bachelor of Science",
         "meta": "Emory University.",
         "text": "Educated regarding biological and life sciences, microbiology and virology.",
         "year": "2004 - 2008"
+        
+    },
+    {
+        "id": 2,
+        "title": "U.S. Officer",
+        "meta": "U.S. Army",
+        "text": "Worked in administration and served in a medical capacity, also served in information technology and logistics.",
+        "year": "2008 - 2018"
     },
     {
         "id": 3,
