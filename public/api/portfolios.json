@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
+        "title": "Space Adventure",
+        "subtitle": "Space Adventure",
         "coverimage": "/images/portfolios/portfolio-image-19.jpg",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-19.jpg",
@@ -10,13 +10,13 @@
             "/images/portfolios/portfolio-image-lg-17.jpg"
         ],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://www.haleverde.com",
         "filters": ["react"]
     },
     {
         "id": 2,
-        "title": "Paint",
-        "subtitle": "Creative wall painting",
+        "title": "Alpha Phoenix",
+        "subtitle": "Hospital App - Alpha Phoenix",
         "coverimage": "/images/portfolios/portfolio-image-2.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -75,8 +75,8 @@
     },
     {
         "id": 8,
-        "title": "Atar",
-        "subtitle": "Atar box design",
+        "title": "Interactive Monitor",
+        "subtitle": "Interactive Monitor",
         "coverimage": "/images/portfolios/portfolio-image-8.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
         "videogallery": false,

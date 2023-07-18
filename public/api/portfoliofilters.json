@@ -16,7 +16,17 @@
     },
     {
         "id": 4,
-        "title": "Node Js",
+        "title": "Vue Js",
         "value": "node"
+    },
+    {
+        "id": 5,
+        "title": "WordPress",
+        "value": "wordpress"
+    },
+    {
+        "id": 6,
+        "title": "Data Science",
+        "value": "datascience"
     }
 ]
