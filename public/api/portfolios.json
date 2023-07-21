@@ -29,19 +29,19 @@
         "subtitle": "UI/UX Sample design mockup",
         "coverimage": "/images/portfolios/portfolio-image-3.jpg",
         "imagegallery": false,
-        "videogallery": ["https://www.rolandgreen.dev"],
+        "videogallery": false,
         "url": "https://www.rolandgreen.dev",
         "filters": ["uiux"]
     },
     {
         "id": 4,
-        "title": "Packet",
-        "subtitle": "Packet design mockup",
+        "title": "Interactive Monitor",
+        "subtitle": "Landing Page Design",
         "coverimage": "/images/portfolios/portfolio-image-4.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
+        "url": "https://www.rolandgreen.dev",
+        "filters": ["uiux"]
     },
     {
         "id": 5,
