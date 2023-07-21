@@ -181,9 +181,9 @@
         "title": "WordPress - Sales Training",
         "subtitle": "Sales Promotion and Video Website",
         "coverimage": "/images/portfolios/portfolio-image-20.jpg",
-        "imagegallery": false,
+        "imagegallery": "/images/portfolios/portfolio-image-lg-20.jpg",
         "videogallery": false,
         "url": "https://www.rolandgreen.dev",
         "filters": ["wordpress"]
-    },
+    }
 ]
