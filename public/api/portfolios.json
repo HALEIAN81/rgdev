@@ -175,5 +175,15 @@
         "videogallery": false,
         "url": false,
         "filters": ["uiux"]
-    }
+    },
+    {
+        "id": 18,
+        "title": "WordPress - Sales Training",
+        "subtitle": "Sales Promotion and Video Website",
+        "coverimage": "/images/portfolios/portfolio-image-20.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://www.rolandgreen.dev",
+        "filters": ["wordpress"]
+    },
 ]
