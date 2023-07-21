@@ -25,13 +25,13 @@
     },
     {
         "id": 3,
-        "title": "UI/UX Sample",
+        "title": "UI/UX Sample - FAQS",
         "subtitle": "UI/UX Sample design mockup",
         "coverimage": "/images/portfolios/portfolio-image-3.jpg",
         "imagegallery": false,
-        "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
+        "videogallery": ["https://www.rolandgreen.dev"],
+        "url": "https://www.rolandgreen.dev",
+        "filters": ["uiux"]
     },
     {
         "id": 4,
