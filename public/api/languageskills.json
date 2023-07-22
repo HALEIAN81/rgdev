@@ -26,7 +26,7 @@
     },
     {
         "id": 6,
-        "title": "Photoshop",
+        "title": "Vue Js",
         "percentage": 75
     },
     {
@@ -39,4 +39,9 @@
         "title": "Figma",
         "percentage": 90
     }
+    {
+        "id": 3,
+        "title": "Photoshop",
+        "percentage": 80
+    },
 ]
