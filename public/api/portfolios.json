@@ -61,7 +61,7 @@
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "node"]
+        "filters": ["html"]
     },
     {
         "id": 7,
@@ -124,7 +124,7 @@
         ],
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "node"]
+        "filters": ["html"]
     },
     {
         "id": 13,
@@ -164,7 +164,7 @@
         "imagegallery": false,
         "videogallery": false,
         "url": false,
-        "filters": ["uiux", "node"]
+        "filters": ["uiux"]
     },
     {
         "id": 17,
