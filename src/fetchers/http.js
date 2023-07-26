@@ -1,9 +1,8 @@
 import axios from "axios";
 
 const http = axios.create({
-    // baseURL: process.env.API_URL,
 
-    baseURL:"https://www.rolandgreen.dev/api",
+    baseURL: process.env.NEXT_PUBLIC_API_URL,
     headers: {
         Accept: "application/json",
         "Access-Control-Allow-Origin": "*",
