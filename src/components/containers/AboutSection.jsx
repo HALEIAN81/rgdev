@@ -8,6 +8,8 @@ import { useQuery } from "react-query";
 const AboutSection = () => {
   const { data } = useQuery("information", getInformation);
 
+  console.log({data});
+
   if (!data) return null;
 
   return (
