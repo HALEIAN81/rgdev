@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Owner",
+        "meta": "Client - TSreports.com",
+        "givenreview": 5.0,
+        "image": "/images/user-avatar-1.png",
+        "text": "My website wouldn't be the same without his constant efforts, his attention to detail and his great communication."
+    },
+    {
+        "id": 2,
+        "name": "Owner",
+        "meta": "Client - ArsenalSalesTraining.com",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-4.png",
+        "text": "He is the future of web development, very talented. "
+    },
+    {
+        "id": 3,
+        "name": "Owner",
+        "meta": "Client - Encampment.org",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-3.png",
+        "text": "Roland was a joy to work with and I had a great experience."
+    }
+]
