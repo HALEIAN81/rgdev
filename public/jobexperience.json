@@ -1,21 +1,13 @@
 [
     {
         "id": 1,
-        "title": "Front-end Developer",
-        "meta": "Onco Dev",
-        "text": "Developing web based application from a windows based application via Vue.js and Typescript.",
-        "year": "2023 - Current"
-
-    },
-    {
-        "id": 2,
         "title": "UI/UX Designer",
         "meta": "Healthcare Integrations",
         "text": "Worked as a UX/UI designer and front end developer for a large web application, completed designs in FIGMA and worked on development of the end product as lead front end developer for Vue/Laravel based project.",
         "year": "2021 - 2023"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Full Stack Developer",
         "meta": "High Power Data Solutions/Freelancer",
         "text": "Worked for agency building React, WordPress including custom themes and plugins, also worked as a freelancer for Three.js projects.",
