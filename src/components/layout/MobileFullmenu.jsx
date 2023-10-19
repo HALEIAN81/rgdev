@@ -12,7 +12,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
         <RiCloseLine className="inline" />
       </button>
       <div className="sidenavmobile flex h-full flex-col justify-between p-7 text-center">
-        <Logo url="/homepage1" />
+        <Logo url="/" />
         <nav className="sidenav-mobilmenu relative max-h-full w-full overflow-y-auto">
           <ul className="mb-0 list-none pl-0">
             <li className="block">
