@@ -35,7 +35,7 @@
     },
     {
         "id": 4,
-        "title": "Interactive Monitor",
+        "title": "Interface Monitor",
         "subtitle": "Landing Page Design",
         "coverimage": "/images/portfolios/portfolio-image-4.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
@@ -75,8 +75,8 @@
     },
     {
         "id": 8,
-        "title": "Interactive Monitor",
-        "subtitle": "Interactive Monitor",
+        "title": "Interface Monitor",
+        "subtitle": "Interface Monitor",
         "coverimage": "/images/portfolios/portfolio-image-8.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
         "videogallery": false,
@@ -85,66 +85,63 @@
     },
     {
         "id": 9,
-        "title": "Cream",
-        "subtitle": "Another cream box design",
+        "title": "Frontier Direct Health",
+        "subtitle": "A medical clinic",
         "coverimage": "/images/portfolios/portfolio-image-9.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
+        "url": "https://frontier.clinic",
+        "filters": ["html", "wordpress"]
     },
     {
         "id": 10,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel box design",
+        "title": "Jodeaux Agency",
+        "subtitle": "An agency for web and promotional experiences",
         "coverimage": "/images/portfolios/portfolio-image-10.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
+        "url": "https://jodeaux.agency",
+        "filters": ["uiux", "wordpress"]
     },
     {
         "id": 11,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel tube design",
+        "title": "Love on A Leash",
+        "subtitle": "A website dedicated to dog lovers",
         "coverimage": "/images/portfolios/portfolio-image-11.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
+        "url": "https://www.loveonaleash.org",
+        "filters": ["uiux", "wordpress"]
     },
     {
         "id": 12,
-        "title": "NFT",
-        "subtitle": "Creative NFT Text",
-        "coverimage": "/images/portfolios/portfolio-image-12.jpg",
-        "imagegallery": [
-            "/images/portfolios/portfolio-image-lg-12.jpg",
-            "/images/portfolios/portfolio-image-lg-11.jpg"
-        ],
+        "title": "Arsenal Sales Training",
+        "subtitle": "A Website dedicated to teaching effective sales techniques",
+        "coverimage": "/images/portfolios/portfolio-image-20.jpg",
+        "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html"]
+        "url": "https://www.arsenalsalestraining.com",
+        "filters": ["html", "wordpress"]
     },
     {
         "id": 13,
-        "title": "Wallpaper",
-        "subtitle": "Creative wallpaper design",
+        "title": "TS Reports",
+        "subtitle": "A website that tracks aircraft accidents",
         "coverimage": "/images/portfolios/portfolio-image-13.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["react", "uiux"]
+        "url": "https://www.tsreports.com",
+        "filters": ["react", "wordpress"]
     },
     {
         "id": 14,
-        "title": "Wallpaper",
-        "subtitle": "Creative desktop wallpaper",
+        "title": "Healthcare Integrations",
+        "subtitle": "Company that provides mirth training and integrations",
         "coverimage": "/images/portfolios/portfolio-image-14.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
+        "url": "https://www.healthcareintegration.com",
+        "filters": ["uiux", "wordpress"]
     },
     {
         "id": 15,
