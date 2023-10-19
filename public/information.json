@@ -4,14 +4,14 @@
     "fullName": "Roland Green",
     "thumbImage": "/images/formal-image.png",
     "largeImage": "/images/about-image.jpg",
-    "bio": "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations, including three.js elements and other custom features.",
+    "bio": "I am a frontend web developer and ux/ui designer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations, including three.js elements and other custom features.",
     "age": 35,
     "nationality": "American",
     "languages": [
         "English",
         "Spanish"
     ],
-    "address": "Twin Springs, TN",
+    "address": "Southeast, US",
     "freelance": "It's complicated",
     "socialAddress": {
         "facebook": "https://facebook.com",

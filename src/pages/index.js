@@ -29,7 +29,7 @@ const Homepage2 = ({ posts }) => {
   return (
     <Layout blurred>
       <Head>
-        <title>Welcome to RolandGreen.Dev - Portfolio</title>
+        <title>Welcome to RolandGreen.Dev - A Portfolio Experience</title>
       </Head>
 
       {/* Start Hero Section */}
