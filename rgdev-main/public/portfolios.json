@@ -142,45 +142,5 @@
         "videogallery": false,
         "url": "https://www.healthcareintegration.com",
         "filters": ["uiux", "wordpress"]
-    },
-    {
-        "id": 15,
-        "title": "NFT",
-        "subtitle": "Creative NFT Design",
-        "coverimage": "/images/portfolios/portfolio-image-15.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
-    },
-    {
-        "id": 16,
-        "title": "Art",
-        "subtitle": "Creative wall art",
-        "coverimage": "/images/portfolios/portfolio-image-16.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": false,
-        "filters": ["uiux"]
-    },
-    {
-        "id": 17,
-        "title": "Wallpaper2",
-        "subtitle": "Creative wallpaper art",
-        "coverimage": "/images/portfolios/portfolio-image-1.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": false,
-        "filters": ["uiux"]
-    },
-    {
-        "id": 18,
-        "title": "WordPress - Sales Training",
-        "subtitle": "Sales Promotion and Video Website",
-        "coverimage": "/images/portfolios/portfolio-image-20.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://www.rolandgreen.dev",
-        "filters": ["wordpress"]
     }
 ]
