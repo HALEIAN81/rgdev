@@ -6,27 +6,17 @@
     },
     {
         "id": 2,
-        "title": "Html & Css",
-        "value": "html"
-    },
-    {
-        "id": 3,
         "title": "WordPress",
         "value": "wordpress"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Vue Js",
         "value": "vue"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "React js",
         "value": "react"
-    },
-    {
-        "id": 6,
-        "title": "Data Science",
-        "value": "datascience"
     }
 ]
