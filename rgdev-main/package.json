@@ -1,5 +1,5 @@
 {
-    "name": "RolandGreen.Dev",
+    "name": "rolandgreen.dev",
     "description": "RolandGreen.Dev- Personal Portfolio",
     "author": "RolandGreen.Dev",
     "version": "1.0.0",
@@ -55,5 +55,13 @@
         "tailwindcss-nested-groups": "^1.2.4"
     },
     "license": "MIT",
-    "proxy": "http://localhost:3000/api"
+    "proxy": "http://localhost:3000/api",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HALEIAN81/rgdev.git"
+    },
+    "bugs": {
+        "url": "https://github.com/HALEIAN81/rgdev/issues"
+    },
+    "homepage": "https://github.com/HALEIAN81/rgdev#readme"
 }
